@@ -1,2 +1,3 @@
 flask
 Authlib
+huggingface_hub
